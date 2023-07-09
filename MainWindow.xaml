@@ -1,0 +1,28 @@
+﻿<Window x:Class="KrupaTikTacToe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KrupaTikTacToe"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Window.Resources>
+        <Style TargetType="Window">
+            <Setter Property="Background" Value="Cyan" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="BorderThickness" Value="3" />
+            <Setter Property="FontSize" Value="13" />
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Button Content="User Vs Computer" x:Name="uvc1" Click="uvc" Background="BlueViolet" Margin="313,100,351,274" Foreground="White" />
+
+        <Button Content="User Vs User" x:Name="uvu1" Click="uvu" Margin="313,173,352,200" Background="BlueViolet" Foreground="White" />
+        <TextBlock HorizontalAlignment="Left" Margin="253,24,0,0" TextWrapping="Wrap" Foreground="BlueViolet" VerticalAlignment="Top" Width="256" FontSize="30" FontWeight="Bold" TextAlignment="Center"><Run FontWeight="Bold" Text="Tic Tac Toe Game"/></TextBlock>
+        <Button Content="Load Game" x:Name="uvu1_Copy" Click="uvu" Margin="313,260,352,113" Background="BlueViolet" Foreground="White" />
+
+    </Grid>
+</Window>

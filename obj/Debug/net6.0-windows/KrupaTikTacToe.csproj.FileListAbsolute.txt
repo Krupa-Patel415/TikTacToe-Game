@@ -1,0 +1,75 @@
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.exe
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.deps.json
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.runtimeconfig.json
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.dll
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.pdb
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.csproj.AssemblyReference.cache
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\UserComputerGameLogic.g.cs
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\UserUserGameFrontend.g.cs
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe_MarkupCompile.cache
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe_MarkupCompile.lref
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\UserComputerGameLogic.baml
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\UserUserGameFrontend.baml
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.g.resources
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.AssemblyInfoInputs.cache
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.AssemblyInfo.cs
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.dll
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\refint\KrupaTikTacToe.dll
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.pdb
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.genruntimeconfig.cache
+C:\Users\Digamber Jha\source\repos\KrupaTikTacToe\obj\Debug\net6.0-windows\ref\KrupaTikTacToe.dll
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.exe
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.deps.json
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.runtimeconfig.json
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.dll
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\bin\Debug\net6.0-windows\ref\KrupaTikTacToe.dll
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.pdb
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.csproj.AssemblyReference.cache
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\UserComputerGameLogic.g.cs
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\UserUserGameFrontend.g.cs
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe_MarkupCompile.cache
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe_MarkupCompile.lref
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\UserComputerGameLogic.baml
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\UserUserGameFrontend.baml
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.g.resources
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.AssemblyInfoInputs.cache
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.AssemblyInfo.cs
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.csproj.CoreCompileInputs.cache
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.dll
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\ref\KrupaTikTacToe.dll
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.pdb
+C:\Users\pkrup\Dropbox\PC\Desktop\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.genruntimeconfig.cache
+F:\Sem-1\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.exe
+F:\Sem-1\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.deps.json
+F:\Sem-1\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.runtimeconfig.json
+F:\Sem-1\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.dll
+F:\Sem-1\KrupaTikTacToe\bin\Debug\net6.0-windows\KrupaTikTacToe.pdb
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.csproj.AssemblyReference.cache
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\UserComputerGameLogic.g.cs
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\UserUserGameFrontend.g.cs
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\App.g.cs
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe_MarkupCompile.cache
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe_MarkupCompile.lref
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\UserComputerGameLogic.baml
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\UserUserGameFrontend.baml
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.g.resources
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.AssemblyInfoInputs.cache
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.AssemblyInfo.cs
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.csproj.CoreCompileInputs.cache
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.dll
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\refint\KrupaTikTacToe.dll
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.pdb
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\KrupaTikTacToe.genruntimeconfig.cache
+F:\Sem-1\KrupaTikTacToe\obj\Debug\net6.0-windows\ref\KrupaTikTacToe.dll
